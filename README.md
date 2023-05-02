@@ -29,24 +29,24 @@ https://codepen.io/
 ### figma : 웹 앱 디자인 협업 등 용도로 사용
 https://www.figma.com/
 
-배경제거
+###  배경제거
 https://www.remove.bg/ko​
 
-엔티티코드(HTML 상에서 특수기호를 넣고자 할때)
+###  엔티티코드(HTML 상에서 특수기호를 넣고자 할때)
 entity code : https://entitycode.com/
 
-폰트어썸(icon 찾아서 넣고자 할때)
+###  폰트어썸(icon 찾아서 넣고자 할때)
 fontawesome : https://fontawesome.com/
 
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/
-font-awesome/5.9.0/css/all.min.css" />​
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css" />​
 
-jQuery
-
+### jQuery
 jquery 1.x
-<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>​
 
-깃헙 ----------------------
+      <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>​
+
+----------------------
+### 깃헙
 github : https://github.com/
  - 깃(컴퓨터에 설치하고자 할때)
   git :  https://git-scm.com/downloads
@@ -56,73 +56,88 @@ https://m.blog.naver.com/jooeun0502/221956294941​
 
 --------------------------
 
-추가 코드 플러그인
+## 추가 코드 플러그인
 
-slick
+### slick
 https://kenwheeler.github.io/slick/
 cdn
 
-css
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css"/>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css"/>​
+#### css
 
-js
-<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css"/>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css"/>
 
-jquery 1.x
-<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+#### js
 
-<!--slick_script-->
- <script>
-   $(document).ready(function () {
-     $('.slider_pic').slick({
-       infinite: false,
-       slidesToShow: 1.2,
-       dots: true,
-       arrows: false,
-     });
-   });
- </script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+
+#### jquery 1.x
+
+        <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+
+#### slick_script
+
+         <script>
+           $(document).ready(function () {
+             $('.slider_pic').slick({
+               infinite: false,
+               slidesToShow: 1.2,
+               dots: true,
+               arrows: false,
+             });
+           });
+         </script>
 
 ---------------------------
 
-swiper
+### swiper
 https://swiperjs.com/
 
-css
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/
-swiper@9/swiper-bundle.min.css" />
+#### css
 
-  <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
+         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" />
+         
+#### js
 
-  <script>
-    const swiper = new Swiper('.shop_product', {
-      loop: false,
-      slidesPerView: 2.5, //화면에 몇개가 나오게 할것인가?
-      spaceBetween: 25, //사이에 간격을 말함.
-    });
-  </script>
+        <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
+
+
+#### swiper_script
+
+          <script>
+            const swiper = new Swiper('.shop_product', {
+              loop: false,
+              slidesPerView: 2.5, //화면에 몇개가 나오게 할것인가?
+              spaceBetween: 25, //사이에 간격을 말함.
+            });
+          </script>
 
 ---------------------------------------
 
-light gallery(이미지갤러리 제작시)
+### light gallery(이미지갤러리 제작시)
 https://www.lightgalleryjs.com/
 
-css
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.1/css/lightgallery.min.css" />
+#### css
 
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.1/css/lg-thumbnail.min.css" />​
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.1/css/lightgallery.min.css" />
 
-script
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.1/lightgallery.min.js"></script>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.1/css/lg-thumbnail.min.css" />
+          
 
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.1/plugins/thumbnail/lg-thumbnail.min.js">
-  </script>
-<script>
-// light gallery
+#### js
 
-lightGallery(document.getElementById('lightgallery'), {
-  plugins: [lgThumbnail],
-});
- </script>
+          <script src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.1/lightgallery.min.js"></script>
+
+          <script src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.1/plugins/thumbnail/lg-thumbnail.min.js">
+          </script>
+
+#### light_gallery_script
+
+            <script>
+            // light gallery
+
+            lightGallery(document.getElementById('lightgallery'), {
+              plugins: [lgThumbnail],
+            });
+             </script>
 
