@@ -13,50 +13,52 @@
 
 ### 웹 스탠다드 참고
 
-### 🗺️ [w3school](https://www.w3schools.com/)
+#### 🗺️ [w3school](https://www.w3schools.com/)
 
 
 
 ### 웹 관련 서적 참고
 
 (주)도서출판 길벗에서 제공하는 IT 도서 열람 서비스
-### 📖 [thebook](https://thebook.io/)
+#### 📖 [thebook](https://thebook.io/)
 
 
 
 ### 1분코딩
-flex  : https://studiomeal.com/archives/197
-grid  : https://studiomeal.com/archives/533
+#### [flex](https://studiomeal.com/archives/197)
+:플렉스 기초
 
+#### [grid](https://studiomeal.com/archives/533)
+:그리드 기초
 
 
 ### netlify : 1000명 이하 무료 개인 사이트 배포 가능
-https://www.netlify.com/
+#### [netlify](https://www.netlify.com/)
 
 
 
 ### codepen : HTML CSS JS 등 연습 및 포트폴리오 업로드 및 가능
-https://codepen.io/
+#### 🖋️[codepen](https://codepen.io/)
 
 
 
 ### figma : 웹 앱 디자인 협업 등 용도로 사용
-https://www.figma.com/
+#### 🏭[figma](https://www.figma.com/)
 
 
 
 ###  배경제거
-https://www.remove.bg/ko
+#### [remove](https://www.remove.bg/ko)
 
 
 
 ###  엔티티코드(HTML 상에서 특수기호를 넣고자 할때)
-entity code : https://entitycode.com/
+#### [entity code](https://entitycode.com/)
 
 
 
 ###  폰트어썸(icon 찾아서 넣고자 할때)
-fontawesome : https://fontawesome.com/
+#### 📁[fontawesome](https://fontawesome.com/)
 
 
      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css" />​
@@ -64,25 +66,28 @@ fontawesome : https://fontawesome.com/
 
 
 ### jQuery
+#### [jqery cdn](https://releases.jquery.com/)
 jquery 1.x
 
       <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>​
 
 ----------------------
 ### 깃헙
-github : https://github.com/
+#### [github](https://github.com/)
+
+
  - 깃(컴퓨터에 설치하고자 할때)
-  git :  https://git-scm.com/downloads
+#### [git](https://git-scm.com/downloads)
 
 깃 README 등 메모시 사용법
-https://m.blog.naver.com/jooeun0502/221956294941​
+#### [readme 사용법](https://m.blog.naver.com/jooeun0502/221956294941)
 
 --------------------------
 
 ## 추가 코드 플러그인
 
 ### slick
-https://kenwheeler.github.io/slick/
+#### [slick](https://kenwheeler.github.io/slick/)
 cdn
 
 #### css
@@ -114,7 +119,7 @@ cdn
 ---------------------------
 
 ### swiper
-https://swiperjs.com/
+#### [swiper](https://swiperjs.com/)
 
 #### css
 
@@ -138,7 +143,7 @@ https://swiperjs.com/
 ---------------------------------------
 
 ### light gallery(이미지갤러리 제작시)
-https://www.lightgalleryjs.com/
+#### [light gallery](https://www.lightgalleryjs.com/)
 
 #### css
 
