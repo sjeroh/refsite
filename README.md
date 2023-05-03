@@ -6,7 +6,7 @@
 > : 윈도우 환경에서 코드를 쉽게 치기위한 툴
 >   
 >
->       --> 설치 후 beautify, live sever 추가로 설치하기.
+>       --> 설치 후 beautify, live server 추가로 설치하기.
 
 
 
