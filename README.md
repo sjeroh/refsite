@@ -52,12 +52,12 @@
 > 
 >
 
-### a [remove](https://www.remove.bg/ko)
+### :electron: [remove](https://www.remove.bg/ko)
 >  배경제거
 > 
 >
 
-### [entity code](https://entitycode.com/)
+### 👽 [entity code](https://entitycode.com/)
 >  엔티티코드(HTML 상에서 특수기호를 넣고자 할때)
 > 
 >
