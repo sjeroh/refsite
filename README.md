@@ -52,7 +52,7 @@
 > 
 >
 
-### [remove](https://www.remove.bg/ko)
+### a [remove](https://www.remove.bg/ko)
 >  배경제거
 > 
 >
