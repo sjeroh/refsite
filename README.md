@@ -7,6 +7,7 @@
 >   
 >
 >       --> 설치 후 beautify, live server 추가로 설치하기.
+>       -- beautify -> 오돌오돌한 설정버튼 -> keyboard shortcut -> beautify file 검색 -> ctrl + L 
 
 
 
