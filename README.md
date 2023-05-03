@@ -3,33 +3,32 @@
 
 ### 🥇[visual studio code](https://code.visualstudio.com/)
     
-#### : 윈도우 환경에서 코드를 쉽게 치기위한 툴
+> : 윈도우 환경에서 코드를 쉽게 치기위한 툴
     
 
         --> 설치 후 beautify, live sever 추가로 설치하기.
 
 
 
+### 🗺️ [w3school](https://www.w3schools.com/)
 
-### 웹 스탠다드 참고
-
-#### 🗺️ [w3school](https://www.w3schools.com/)
-
+> 웹 스탠다드 참고
 
 
-### 웹 관련 서적 참고
+### 📖 [thebook](https://thebook.io/)
 
-(주)도서출판 길벗에서 제공하는 IT 도서 열람 서비스
-#### 📖 [thebook](https://thebook.io/)
+> 웹 관련 서적 참고    
+>
+>(주)도서출판 길벗에서 제공하는 IT 도서 열람 서비스
 
 
 
-### 1분코딩
-#### [flex](https://studiomeal.com/archives/197)
-:플렉스 기초
-
-#### [grid](https://studiomeal.com/archives/533)
-:그리드 기초
+### [1분코딩](https://studiomeal.com/)
+### [flex](https://studiomeal.com/archives/197)
+> 플렉스 기초
+>
+### [grid](https://studiomeal.com/archives/533)
+>그리드 기초
 
 
 ### netlify : 1000명 이하 무료 개인 사이트 배포 가능
