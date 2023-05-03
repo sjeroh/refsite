@@ -7,7 +7,8 @@
 >   
 >
 >       --> 설치 후 beautify, live server 추가로 설치하기.
->       -- beautify -> 오돌오돌한 설정버튼 -> keyboard shortcut -> beautify file 검색 -> ctrl + L 
+>       
+>       -- beautify -> 오돌오돌한 설정버튼 -> keyboard shortcut -> beautify file 검색 -> ctrl + L
 >
 >
 
@@ -15,7 +16,7 @@
 
 > 웹 스탠다드 참고
 >
-
+>
 
 ### 📖 [thebook](https://thebook.io/)
 
@@ -88,10 +89,12 @@
 > ### [readme 사용법](https://m.blog.naver.com/jooeun0502/221956294941)
 > > 깃 README 등 메모시 사용법
 >
->
---------------------------
+>  
+--------------------------  
 
-
+<br/>
+<br/>
+<br/>
 
 ## 추가 코드 플러그인
 
