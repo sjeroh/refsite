@@ -97,7 +97,7 @@
 
 
 ### 🎰 [slick](https://kenwheeler.github.io/slick/)
-> slick cdn
+> slick cdn 및 코드 하단 
 >
 > #### css
 >
@@ -128,54 +128,60 @@
 
 ---------------------------
 
-### swiper
-#### [swiper](https://swiperjs.com/)
-
-#### css
-
-         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" />
-         
-#### js
-
-        <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
-
-
-#### swiper_script
-
-          <script>
-            const swiper = new Swiper('.shop_product', {
-              loop: false,
-              slidesPerView: 2.5, //화면에 몇개가 나오게 할것인가?
-              spaceBetween: 25, //사이에 간격을 말함.
-            });
-          </script>
+### 🦢 [swiper](https://swiperjs.com/)
+> swiper 코드 하단 참고
+>
+> #### css
+>
+>         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" />
+>         
+> #### js
+>
+>        <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
+>
+>
+> #### jquery 1.x
+>
+>        <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>>
+>
+> #### swiper_script
+>
+>          <script>
+>            const swiper = new Swiper('.shop_product', {
+>              loop: false,
+>              slidesPerView: 2.5, //화면에 몇개가 나오게 할것인가?
+>              spaceBetween: 25, //사이에 간격을 말함.
+>            });
+>          </script>
+>
 
 ---------------------------------------
 
-### light gallery(이미지갤러리 제작시)
-#### [light gallery](https://www.lightgalleryjs.com/)
-
-#### css
-
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.1/css/lightgallery.min.css" />
-
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.1/css/lg-thumbnail.min.css" />
-          
-
-#### js
-
-          <script src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.1/lightgallery.min.js"></script>
-
-          <script src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.1/plugins/thumbnail/lg-thumbnail.min.js">
-          </script>
-
-#### light_gallery_script
-
-            <script>
-            // light gallery
-
-            lightGallery(document.getElementById('lightgallery'), {
-              plugins: [lgThumbnail],
-            });
-             </script>
-
+### 🌩️ [light gallery](https://www.lightgalleryjs.com/)
+> light gallery(이미지갤러리 제작시)
+>
+>#### css
+>
+>          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.1/css/lightgallery.min.css" />
+>
+>          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.1/css/lg-thumbnail.min.css" />
+>          
+>
+>#### js
+>
+>          <script src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.1/lightgallery.min.js"></script>
+>
+>          <script src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.1/plugins/thumbnail/lg-thumbnail.min.js">
+>          </script>
+>
+>#### light_gallery_script
+>
+>            <script>
+>            // light gallery
+>
+>            lightGallery(document.getElementById('lightgallery'), {
+>              plugins: [lgThumbnail],
+>            });
+>             </script>
+>
+>
