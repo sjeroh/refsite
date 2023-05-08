@@ -69,6 +69,7 @@
 
 ### 📁[fontawesome](https://fontawesome.com/)
 >  폰트어썸(icon 찾아서 넣고자 할때)
+>  [5버전 free](https://fontawesome.com/v5/search?m=free)
 >
 >
 >        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css" />​
