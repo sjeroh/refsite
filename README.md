@@ -46,6 +46,10 @@
 > 
 >
 
+### 🎱[bootstrap](https://getbootstrap.com/)
+> bootstrap : css를 거의 쓰지 않고 간단하게 웹 페이지 제작, 아이콘도 요새 추가됨.
+>
+>
 
 ### 🏭[figma](https://www.figma.com/)
 > figma : 웹 앱 디자인 협업 등 용도로 사용
