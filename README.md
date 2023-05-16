@@ -83,6 +83,12 @@
 > 
 >
 
+https://colorhunt.co/
+
+https://fonts.google.com/
+
+https://pixabay.com/ko/
+
 ### 🧩 [jQery cdn](https://releases.jquery.com/)
 > jQuery 1.x
 >
