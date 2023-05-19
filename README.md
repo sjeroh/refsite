@@ -80,10 +80,11 @@
 >
 
 ### [emmet참고](https://nachwon.github.io/How_to_use_emmet/)
+> div+div>p>span+em^bq HTML에서 사용할 간소화된 작성법
 > 
 
 
-## [mdn](https://developer.mozilla.org/ko/)
+## 🚇 [mdn](https://developer.mozilla.org/ko/)
 > 자바스크립트 관련해서 자세히 적어놓은곳
 >
 
