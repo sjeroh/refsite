@@ -93,6 +93,9 @@ https://fonts.google.com/
 
 https://pixabay.com/ko/
 
+https://greensock.com/gsap/
+>애니메이션을 위해 태어났다.
+
 ### 🧩 [jQery cdn](https://releases.jquery.com/)
 > jQuery 1.x
 >
