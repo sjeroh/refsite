@@ -84,18 +84,30 @@
 > 
 
 
-## 🚇 [mdn](https://developer.mozilla.org/ko/)
+### 🚇 [mdn](https://developer.mozilla.org/ko/)
 > 자바스크립트 관련해서 자세히 적어놓은곳
 >
 
-https://colorhunt.co/
+### 🖌️ [colorhunt](https://colorhunt.co/)
+> 색감 모아놓은 사이트
+> 색감코드 복사 붙여넣기 가능
+>
 
-https://fonts.google.com/
+### ℹ️ [googlefonts](https://fonts.google.com/)
+> 구글에서 제공하는 무료 폰트
+> 아이콘도 제공
+>
+>
 
-https://pixabay.com/ko/
+### 🖼️ [pixabay](https://pixabay.com/ko/)
+> 무료 이미지
+> 
 
-https://greensock.com/gsap/
+
+### 🦿 [greensock](https://greensock.com/gsap/)
 >애니메이션을 위해 태어났다.
+>js code..
+
 
 ### 🧩 [jQery cdn](https://releases.jquery.com/)
 > jQuery 1.x
