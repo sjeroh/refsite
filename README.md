@@ -79,7 +79,7 @@
 >        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css" />​
 >
 
-### [emmet참고](https://nachwon.github.io/How_to_use_emmet/)
+### 📝 [emmet참고](https://nachwon.github.io/How_to_use_emmet/)
 > div+div>p>span+em^bq HTML에서 사용할 간소화된 작성법
 > 
 
