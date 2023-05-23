@@ -112,6 +112,9 @@
 >js code..
 
 
+### https://github.com/locomotivemtl/locomotive-scroll
+>locomotive
+
 ### 🧩 [jQery cdn](https://releases.jquery.com/)
 > jQuery 1.x
 >
