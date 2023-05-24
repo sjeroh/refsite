@@ -119,7 +119,13 @@
 > jQuery 1.x
 >
 >      <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>​
->
+
+
+### html5 shiv
+> 시맨틱태그 header,section,article,address, footer..를 구 브라우저에서는 인식하지 못하는경우 html5shiv가 인식할 수 있게 해준다. 
+> header 안에 넣는다.
+>        <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+>       
 
 ----------------------
 
