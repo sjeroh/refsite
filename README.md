@@ -106,6 +106,8 @@
 > 무료 이미지
 > 
 
+### https://emojipedia.org/apple-logo/
+> 이모지
 
 ### 🦿 [greensock](https://greensock.com/gsap/)
 >애니메이션을 위해 태어났다.
