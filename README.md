@@ -197,6 +197,7 @@
 >
 >
 > #### jquery 1.x
+> 제이쿼리 기반은 아니다.
 >
 >        <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>>
 >
