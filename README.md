@@ -130,7 +130,15 @@
 
 
 ### https://maximzhurkin.github.io/jquery-scrolla/ [스크롤라]
+>animate css, jquery 필요
+>
 
+        <script src="https://cdn.jsdelivr.net/npm/jquery-scrolla@0.0.3/dist/js/jquery.scrolla.min.js"></script>
+
+
+
+### aosjs (https://michalsnik.github.io/aos/)
+>
 
 
 ### 🧩 [jQery cdn](https://releases.jquery.com/)
