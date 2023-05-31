@@ -123,6 +123,10 @@
 
 
 ### https://animate.style/
+### https://wowjs.uk/docs.html 
+> wow와 같이 사용. 클래스 wow만 있으면 눈에 보일때 움직임 가능
+
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
 
 ### 🧩 [jQery cdn](https://releases.jquery.com/)
 > jQuery 1.x
