@@ -122,11 +122,16 @@
 ### 📭 [node.js](https://nodejs.org/ko)
 
 
-### https://animate.style/
-### https://wowjs.uk/docs.html 
+### https://animate.style/ [animate.css]
+### https://wowjs.uk/docs.html [wow.js]
 > wow와 같이 사용. 클래스 wow만 있으면 눈에 보일때 움직임 가능
 
             <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
+
+
+### https://maximzhurkin.github.io/jquery-scrolla/ [스크롤라]
+
+
 
 ### 🧩 [jQery cdn](https://releases.jquery.com/)
 > jQuery 1.x
