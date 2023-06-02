@@ -118,6 +118,11 @@
 >locomotive
 
 ### https://ko.legacy.reactjs.org/
+> react
+
+
+### https://sass-lang.com/
+> scss 
 
 ### 📭 [node.js](https://nodejs.org/ko)
 
