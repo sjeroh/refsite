@@ -120,6 +120,12 @@
 ### https://ko.legacy.reactjs.org/
 > react
 
+### 👖 [json server](https://www.npmjs.com/package/json-server)
+> 제이슨서버
+
+### 🪓 [axios](https://www.npmjs.com/package/axios)
+> 서버를 사용하려면. axios를 사용해야한다.
+
 
 ### https://sass-lang.com/
 > scss 
