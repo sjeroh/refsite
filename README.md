@@ -106,7 +106,7 @@
 > 무료 이미지
 > 
 
-### https://emojipedia.org/apple-logo/
+### 😬 [이모지](https://emojipedia.org/apple-logo/)
 > 이모지
 
 ### 🦿 [greensock](https://greensock.com/gsap/)
@@ -114,10 +114,11 @@
 >js code..
 
 
-### https://github.com/locomotivemtl/locomotive-scroll
+### 🚛 [locomotive](https://github.com/locomotivemtl/locomotive-scroll)
 >locomotive
+>스크롤애니메이션
 
-### https://ko.legacy.reactjs.org/
+### 🍤 [react](https://ko.legacy.reactjs.org/)
 > react
 
 ### 👖 [json server](https://www.npmjs.com/package/json-server)
@@ -147,33 +148,48 @@
 >  app.js에 넣기.    
 
 
-### https://sass-lang.com/
+### 🌙 [scss](https://sass-lang.com/)
 > scss 
+> 
 
 ### 📭 [node.js](https://nodejs.org/ko)
+> 자바스크립트를 웹이 아닌 다른곳에서도 구동할 수 있게
+>
 
+### 👨‍🔧  [animate.css](https://animate.style/)
+> css 애니메이션
+> 
 
-
-### https://animate.style/ [animate.css]
-### https://wowjs.uk/docs.html [wow.js]
+### 🛴 [wow.js](https://wowjs.uk/docs.html)
 > wow와 같이 사용. 클래스 wow만 있으면 눈에 보일때 움직임 가능
+> 스크롤 애니메이션 중 하나 한번밖에 실행이 되지 않는다.
 
             <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
 
 
-### https://maximzhurkin.github.io/jquery-scrolla/ [스크롤라]
+### 📜 [scrolla](https://maximzhurkin.github.io/jquery-scrolla/)
 >animate css, jquery 필요
+>스크롤 애니메이션 중 하나
 >
 
         <script src="https://cdn.jsdelivr.net/npm/jquery-scrolla@0.0.3/dist/js/jquery.scrolla.min.js"></script>
 
 
 
-### aosjs (https://michalsnik.github.io/aos/)
+### 🪗 [aosjs](https://michalsnik.github.io/aos/)
+> 스크롤 애니메이션 중 하나
 
 
+### 🇰🇮 [tilt](https://micku7zu.github.io/vanilla-tilt.js/)
+> 틸트 애니메이션
+> 
 
-### tilt https://micku7zu.github.io/vanilla-tilt.js/
+### 🐬 [mySQL](https://www.mysql.com/)
+>
+
+
+### 🤹 [xampp](https://www.apachefriends.org/download.html)
+> 잼프 php 작동이 되게하기 위해서. 사용
 
 
 ### 🧩 [jQery cdn](https://releases.jquery.com/)
