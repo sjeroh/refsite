@@ -140,6 +140,11 @@
 
 ### 🪓 [axios](https://www.npmjs.com/package/axios)
 > 서버를 사용하려면. axios를 사용해야한다.
+> 
+>           npm i axios
+
+>  import axios from 'axios';     
+>  app.js에 넣기.    
 
 
 ### https://sass-lang.com/
