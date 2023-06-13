@@ -79,7 +79,7 @@
 >  [5버전 free](https://fontawesome.com/v5/search?m=free)
 >
 >
->        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css" />​
+>        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css" />
 >
 
 ### 📝 [emmet참고](https://nachwon.github.io/How_to_use_emmet/)
