@@ -11,6 +11,8 @@
 >       -- beautify -> 오돌오돌한 설정버튼 -> keyboard shortcut -> beautify file 검색 -> ctrl + L
 
         -- ftp-simple 추가설치 - dothome 연결
+        
+        -- Prettier - Code formatter 추가설치 -> format save 체크 react할때 사용. Editor: Default Formatter -> prettier 로 설정
 
 >
 >
