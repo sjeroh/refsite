@@ -173,6 +173,8 @@
 >animate css, jquery 필요
 >스크롤 애니메이션 중 하나
 >
+         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+         
 
         <script src="https://cdn.jsdelivr.net/npm/jquery-scrolla@0.0.3/dist/js/jquery.scrolla.min.js"></script>
 
