@@ -173,8 +173,10 @@
 >animate css, jquery 필요
 >스크롤 애니메이션 중 하나
 >
+> css 추가
          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
-         
+
+> ---- 아래 스크롤라 cdn , 스크롤라 커스텀 js 도 찾아서 넣기.        
 
         <script src="https://cdn.jsdelivr.net/npm/jquery-scrolla@0.0.3/dist/js/jquery.scrolla.min.js"></script>
 
