@@ -126,6 +126,8 @@
 
 ### 🍦 [react-router-dom](https://reactrouter.com/en/main)
 > react router dom
+> 
+>         npm i react-router-dom
 
 ### 👖 [json server](https://www.npmjs.com/package/json-server)
 > 제이슨서버
