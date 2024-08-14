@@ -76,7 +76,7 @@
 > 
 >
 
-### reacticon[https://react-icons.github.io/react-icons/]
+### [react_icon](https://react-icons.github.io/react-icons/)
 >  리액트 아이콘 찾기
 
 
